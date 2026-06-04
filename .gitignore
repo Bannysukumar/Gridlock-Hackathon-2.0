@@ -1,0 +1,15 @@
+# local data / labels — not for public repo
+.100_final/
+dataset/
+*.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / ide
+.DS_Store
+Thumbs.db
+.cursor/
