@@ -1,4 +1,5 @@
-gridlock_source_submission.zip — must contain exactly these 6 files:
+gridlock_source_submission.zip (v2 — Jun 2026)
+Score-100 notebook + source package. Must contain exactly these 7 files:
 
 1. approach.txt
 2. predict.py
